@@ -1,0 +1,58 @@
+/* Estilo general del body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Encabezado principal */
+h1 {
+  color: #1e3d59;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Subtítulos de segundo nivel */
+h2 {
+  color: #2e86ab;
+  border-bottom: 2px solid #2e86ab;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+/* Subtítulos de tercer nivel */
+h3 {
+  color: #117864;
+  margin-top: 25px;
+}
+
+/* Subtítulos de cuarto nivel */
+h4 {
+  color: #7d3c98;
+  font-style: italic;
+  margin-top: 20px;
+}
+
+/* Párrafos */
+p {
+  margin: 10px 0;
+  text-align: justify;
+}
+
+/* Imágenes */
+img {
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Línea horizontal */
+hr {
+  border: 0;
+  height: 2px;
+  background: #ccc;
+  margin: 30px 0;
+}
